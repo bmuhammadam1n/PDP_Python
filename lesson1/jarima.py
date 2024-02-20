@@ -43,6 +43,9 @@
 # for i in range(10):
 #     print(i)
 
+# num2 = int(input())
+# for i in range(num1):
+#     arr.append(i)
 # arr=[]
 # for i in range(0,10,2):
 #     arr.append(i)
@@ -56,13 +59,10 @@
 #     arr.append(i)
 # arr.remove(num3)
 # print(arr)
-#
+
 
 # arr = []
 # num1 = int(input())
-# num2 = int(input())
-# for i in range(num1):
-#     arr.append(i)
 # for a in arr:
 #     if num2 %2 == 0 and a %2==0:
 #         arr.remove(a)
@@ -71,5 +71,6 @@
 #         arr.remove(a)
 #
 # print(arr)
-#
-#
+
+
+
