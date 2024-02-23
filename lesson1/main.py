@@ -1,16 +1,15 @@
-# 1-topshiriq
-s=int(input('enter a number'))
-m=s/100
-print(f'the number is {m} m')
+# a = int(input("Enter a number: "))
+# b = int(input("Enter another number: "))
+# counter=0
+# while a>=b:
+#     a=a-b
+#     counter+=1
+# print("qoldiq =",a)
+# print("butun =", counter)
 
-# 2-topshiriq
-s=int(input('enter a number'))
-m=s/1000
-print(f'the number is {m} kg')
-
-# 3-topshiriq
-a=24
-b=3
-s=a/b
-print(f"A kesma {s}ta B kesmadan tashkil topgan")
-
+a = int(input("Enter a number: "))
+while a = :
+    if a % 3 == 1:
+        print("True")
+    else:
+        print("False")
