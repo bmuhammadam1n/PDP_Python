@@ -32,17 +32,17 @@
 # print(txt)
 
 
-arr = [9,9,8,9]
-arr1 = []
-txt = ""
-for i in range(100):
-    for k in range(8):
-        arr.append(random.randint(0,9))
-    for x in arr:
-        txt += str(x)
-    for y in txt:
-        arr1.append(y)
-print(txt)
+# arr = [9,9,8,9]
+# arr1 = []
+# txt = ""
+# for i in range(100):
+#     for k in range(8):
+#         arr.append(random.randint(0,9))
+#     for x in arr:
+#         txt += str(x)
+#     for y in txt:
+#         arr1.append(y)
+# print(txt)
 
 
 

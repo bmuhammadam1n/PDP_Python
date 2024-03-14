@@ -7,9 +7,9 @@
 # print("qoldiq =",a)
 # print("butun =", counter)
 
-a = int(input("Enter a number: "))
-while a = :
-    if a % 3 == 1:
-        print("True")
-    else:
-        print("False")
+# a = int(input("Enter a number: "))
+# while a = :
+#     if a % 3 == 1:
+#         print("True")
+#     else:
+#         print("False")
