@@ -2,7 +2,7 @@ n = int(input("n ni kiriting: "))
 k = int(input("k ni kiriting: "))
 
 if k == 0:
-    print("Xatolik: k nolga bo'lish mumkin emas")
+    print("k!= 0 ")
 else:
     butun_qism = 0
     qoldiq = n
